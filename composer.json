@@ -1,5 +1,5 @@
 {
-    "name": "ahmedsamy/hype-mailchimp-bundle",
+    "name": "spointecker/hype-mailchimp-bundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Mailchimp V2.0 API Object Oriented wrapper",
